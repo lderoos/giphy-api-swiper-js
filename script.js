@@ -42,6 +42,8 @@ inputField.addEventListener('keyup', event => {
       
       
     });
+
+
     
     // Reset value and return cursor focus -- of input field
     inputField.value = '';
